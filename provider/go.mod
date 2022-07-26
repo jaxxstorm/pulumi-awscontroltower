@@ -4,8 +4,8 @@ go 1.16
 
 require (
 	github.com/idealo/terraform-provider-controltower/shim v0.0.0
-	github.com/pulumi/pulumi-terraform-bridge/v3 v3.19.0
-	github.com/pulumi/pulumi/sdk/v3 v3.25.0
+	github.com/pulumi/pulumi-terraform-bridge/v3 v3.26.1
+	github.com/pulumi/pulumi/sdk/v3 v3.36.0
 )
 
 replace (
